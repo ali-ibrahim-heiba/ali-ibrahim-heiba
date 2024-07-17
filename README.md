@@ -10,6 +10,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Hardware%20Design;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+🚀 About Me
+
 
 - 🏢 I'm a Mechtronics Engineer and Embedded Hardware Design at Sailfish ROV Team.
 - 👨‍💻 As a Mechtronics student, I'm constantly learning and exploring new technologies to improve my skills.
@@ -23,6 +25,7 @@
 <a href="https://www.linkedin.com/in/ali-heiba/" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Heiba-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="aliheiba960@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-ALI%20HEIBA-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="aliheiba.sailfishrov@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-ALI%20HEIBA-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100080153096835" target="_blank"><img src="https://img.shields.io/badge/-Ali%20Heiba-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 
 
